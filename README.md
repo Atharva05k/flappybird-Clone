@@ -1,6 +1,6 @@
 # Flappy Bird Clone
 
-A 2D Flappy Bird-style game built using Java Swing.
+A 2D Flappy Bird-style game developed using Java Swing.
 
 ## Features
 - Gravity and jumping mechanics
@@ -9,7 +9,11 @@ A 2D Flappy Bird-style game built using Java Swing.
 - Score tracking
 - Keyboard controls
 
-## Technologies
+## Tech Stack
 - Java
 - Java Swing
 - OOP
+- Event-driven programming
+
+## How to Run
+Clone the repository, compile the Java source files, and run the main class.
