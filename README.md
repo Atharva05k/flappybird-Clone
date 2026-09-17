@@ -17,3 +17,11 @@ A 2D Flappy Bird-style game developed using Java Swing.
 
 ## How to Run
 Clone the repository, compile the Java source files, and run the main class.
+
+## Preview
+
+### Gameplay
+![Gameplay Screenshot](assets/Screenshotgameplay.png)
+
+### Game Over Screen
+![Game Over Screenshot](assets/Screenshotgameover.png)
